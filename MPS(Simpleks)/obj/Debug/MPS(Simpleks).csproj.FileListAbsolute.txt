@@ -1,0 +1,37 @@
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+c:\users\hp\Desktop\visuol stdio\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+C:\Users\set\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleksv3)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleksv4)\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+C:\Users\HP\Desktop\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojResolveAssemblyReference.cache
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe.config
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).exe
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\bin\Debug\MPS(Simpleks).pdb
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csprojAssemblyReference.cache
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).csproj.CoreCompileInputs.cache
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).exe
+D:\GitHupADD\MPS(Simpleks)\MPS(Simpleks)\obj\Debug\MPS(Simpleks).pdb
